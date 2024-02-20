@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rhimzy
 - 👀 I’m interested in Discord bots
 - 🌱 I’m currently learning python
-- 📫 How to reach me Discord - Rhimzy#1999
+- 📫 How to reach me Discord - @rhimzy
 
 <!---
 Rhimzy/Rhimzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
